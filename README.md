@@ -1,2 +1,2 @@
-# Calculator
-Curso da Hcode de JavaScript Calculadora
+# Curso da Hcode
+ JavaScript Completo
